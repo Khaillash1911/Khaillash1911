@@ -1,5 +1,5 @@
 # Hello World!, I'm Khaillash 👋:
-Currently working on an PreciseBot<br>Studying Artificial Intelligence at Asia Pacific University<br>I'm currently learning Neural Network<br>
+Studying Artificial Intelligence at Asia Pacific University<br>I'm currently learning Neural Network<br>
 
 
 ## 🌐 Socials:
